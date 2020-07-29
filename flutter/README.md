@@ -1,3 +1,7 @@
+## Layout
+
+- [Layout rules](https://medium.com/flutter-community/flutter-the-advanced-layout-rule-even-beginners-must-know-edc9516d1a2)
+
 ## Concurency
 
 - [Flutter – Isolates – Event loop](https://www.didierboelens.com/2019/01/futures-isolates-event-loop/) ⭐
